@@ -1,4 +1,4 @@
-services:
+na pasta img no web eu adicionei a imagem da logo services:
   # ─── PostgreSQL ──────────────────────────────────────────────────────────────
   db:
     image: postgres:16-alpine
